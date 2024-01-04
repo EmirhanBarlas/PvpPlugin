@@ -1,0 +1,11 @@
+name: PvpPlugin
+version: 1.0
+main: org.splendid.pvp.PvpPluginMain
+author: YourName
+description: Bir PvP eklentisi
+
+commands:
+  pvp:
+    description: PvP ekipmanlarını al
+    usage: /pvp
+    permission: pvp.perm
